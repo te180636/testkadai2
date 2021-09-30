@@ -1,0 +1,3 @@
+.vscode/
+target/*
+!target/MyBootApp2-1.0-SNAPSHOT.*
